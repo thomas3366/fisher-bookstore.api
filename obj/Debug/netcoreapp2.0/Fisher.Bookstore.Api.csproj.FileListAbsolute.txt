@@ -1,0 +1,10 @@
+/Users/katythomas/Desktop/ACCTMIS 3610/Fisher.Bookstore.Api/bin/Debug/netcoreapp2.0/Fisher.Bookstore.Api.deps.json
+/Users/katythomas/Desktop/ACCTMIS 3610/Fisher.Bookstore.Api/bin/Debug/netcoreapp2.0/Fisher.Bookstore.Api.runtimeconfig.json
+/Users/katythomas/Desktop/ACCTMIS 3610/Fisher.Bookstore.Api/bin/Debug/netcoreapp2.0/Fisher.Bookstore.Api.runtimeconfig.dev.json
+/Users/katythomas/Desktop/ACCTMIS 3610/Fisher.Bookstore.Api/bin/Debug/netcoreapp2.0/Fisher.Bookstore.Api.dll
+/Users/katythomas/Desktop/ACCTMIS 3610/Fisher.Bookstore.Api/bin/Debug/netcoreapp2.0/Fisher.Bookstore.Api.pdb
+/Users/katythomas/Desktop/ACCTMIS 3610/Fisher.Bookstore.Api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.csproj.CoreCompileInputs.cache
+/Users/katythomas/Desktop/ACCTMIS 3610/Fisher.Bookstore.Api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.AssemblyInfoInputs.cache
+/Users/katythomas/Desktop/ACCTMIS 3610/Fisher.Bookstore.Api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.AssemblyInfo.cs
+/Users/katythomas/Desktop/ACCTMIS 3610/Fisher.Bookstore.Api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.dll
+/Users/katythomas/Desktop/ACCTMIS 3610/Fisher.Bookstore.Api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.pdb
