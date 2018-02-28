@@ -8,3 +8,13 @@
 /Users/katythomas/Desktop/ACCTMIS 3610/Fisher.Bookstore.Api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.AssemblyInfo.cs
 /Users/katythomas/Desktop/ACCTMIS 3610/Fisher.Bookstore.Api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.dll
 /Users/katythomas/Desktop/ACCTMIS 3610/Fisher.Bookstore.Api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.pdb
+/Users/katythomas/Documents/GitHub/fisher-bookstore.api/bin/Debug/netcoreapp2.0/Fisher.Bookstore.Api.deps.json
+/Users/katythomas/Documents/GitHub/fisher-bookstore.api/bin/Debug/netcoreapp2.0/Fisher.Bookstore.Api.runtimeconfig.json
+/Users/katythomas/Documents/GitHub/fisher-bookstore.api/bin/Debug/netcoreapp2.0/Fisher.Bookstore.Api.runtimeconfig.dev.json
+/Users/katythomas/Documents/GitHub/fisher-bookstore.api/bin/Debug/netcoreapp2.0/Fisher.Bookstore.Api.dll
+/Users/katythomas/Documents/GitHub/fisher-bookstore.api/bin/Debug/netcoreapp2.0/Fisher.Bookstore.Api.pdb
+/Users/katythomas/Documents/GitHub/fisher-bookstore.api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.csproj.CoreCompileInputs.cache
+/Users/katythomas/Documents/GitHub/fisher-bookstore.api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.AssemblyInfoInputs.cache
+/Users/katythomas/Documents/GitHub/fisher-bookstore.api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.AssemblyInfo.cs
+/Users/katythomas/Documents/GitHub/fisher-bookstore.api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.dll
+/Users/katythomas/Documents/GitHub/fisher-bookstore.api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.Api.pdb
